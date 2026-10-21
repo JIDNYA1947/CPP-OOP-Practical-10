@@ -1,0 +1,28 @@
+## Program 1: Function Template
+
+Sample Input
+
+80 75 90
+
+Sample Output
+
+Enter marks of three subjects: 80 75 90
+Total Marks: 245
+
+## Program 2: Class Template
+
+Sample Input
+
+No input required.
+
+Sample Output
+
+Student 1 Result
+Roll Number: 1
+Marks: 80, 75, 90
+Total Marks: 245
+
+Student 2 Result
+Roll Number: 2
+Marks: 85.5, 70.5, 90
+Total Marks: 246
